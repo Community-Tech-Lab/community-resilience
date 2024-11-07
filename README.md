@@ -1,4 +1,5 @@
 ![CTLab Logo](/assets/CTLogo.png)
+<img src="/assets/CTLogo.png" alt="CTLab Logo" width="200"/>
 
 # Resources for Community Resilience
 
