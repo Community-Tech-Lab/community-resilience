@@ -1,4 +1,4 @@
-<img src="assets/CTLogo.png" alt="CTLab Logo" width="200"/>
+<img src="assets/CTLogo.png" alt="CTLab Logo" width="250"/>
 
 ## Don't Panic Organize
 Explore the role of community wireless networks, small businesses, and neighborhood anchor institutions in fostering resilient, sustainable neighborhoods. This workshop will examine how local networks can support communities during disasters and how key neighborhood players contribute to long-term sustainability and resilience.
