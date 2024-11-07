@@ -1,3 +1,5 @@
+assets/CTLogo.png
+
 # Resources for Community Resilience
 
 ## Don't Panic Organize
