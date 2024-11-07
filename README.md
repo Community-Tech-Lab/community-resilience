@@ -1,4 +1,4 @@
-assets/CTLogo.png
+[assets/CTLogo.png](https://github.com/Community-Tech-Lab/community-resilience/blob/main/assets/CTLogo.png)
 
 # Resources for Community Resilience
 
