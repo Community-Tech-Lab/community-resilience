@@ -18,7 +18,7 @@ Explore the role of community wireless networks, small businesses, and neighborh
 ## Neighborhood Resilience Guidelines
 This series of guides helps communities prepare collectively, moving beyond individual preparedness to foster neighborhood-wide resilience. Learn how to organize inclusive gatherings that bring together diverse groups, using networks like block captains, PTAs, and faith-based organizations to ensure everyone is involved and informed.
 
-<div align="center"><img src="/assets/IMG_9074.PNG" alt="" width=""/><img src="/assets/IMG_9078.PNG" alt="" width=""/></div>
+<div align="center"><img src="/assets/IMG_9078.JPG" alt="" width=""/><img src="/assets/IMG_9074.JPG" alt="" width=""/></div>
 <div align="center"><sub>Community members mapping local assets during a preparedness workshop.</sub></div>
 <br>
 If you are interested in these resources for your community, please get in touch with Community Tech NY @ **info@communitytechny.org**
