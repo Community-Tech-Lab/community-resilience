@@ -18,5 +18,5 @@ This series of guides helps communities prepare collectively, moving beyond indi
 <br><br>
 If you are interested in these resources for your community, please get in touch with **Community Tech NY** @ 
 <br><br>
-<img src="assets/CTLogo.png" alt="CTLab Logo" width="250"/>
+<img src="assets/CTLogocopy.png" alt="CTLab Logo" width="250"/>
 
