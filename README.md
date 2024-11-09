@@ -1,6 +1,10 @@
 ## Don't Panic, Organize!
 Explore the role of community wireless networks, small businesses, and neighborhood anchor institutions in fostering resilient, sustainable neighborhoods. This workshop will examine how local networks can support communities during disasters and how key neighborhood players contribute to long-term sustainability and resilience.
 
+<div align="center"><img src="https://github.com/Community-Tech-Lab/PNK/blob/main/assets/basicsolarload.png" alt="Basic off-grid solar system" width="" /></div>
+<div align="center"><sub> Basic diagram of an off-grid solar system.</sub></div>
+<br>
+
 ### Objectives:
 - Participants will use community organizing to develop social networks that strengthen bonds within each neighborhood.
 - Participants will lead their neighborhoods in the creation of an emergency communication protocol.
@@ -12,10 +16,11 @@ Explore the role of community wireless networks, small businesses, and neighborh
 **Workshop Duration:** 90 minutes
 
 ## Neighborhood Resilience Guidelines
-
 This series of guides helps communities prepare collectively, moving beyond individual preparedness to foster neighborhood-wide resilience. Learn how to organize inclusive gatherings that bring together diverse groups, using networks like block captains, PTAs, and faith-based organizations to ensure everyone is involved and informed.
-
-<br><br>
+<div align="center"><img src="https://github.com/Community-Tech-Lab/PNK/blob/main/assets/basicsolarload.png" alt="Basic off-grid solar system" width="" /></div>
+<div align="center"><sub> Basic diagram of an off-grid solar system.</sub></div>
+<br>
+<br>
 If you are interested in these resources for your community, please get in touch with Community Tech NY @ **info@communitytechny.org**
 <br><br>
 <img src="assets/CTLogocopy.png" alt="CTLab Logo" width="250"/>
