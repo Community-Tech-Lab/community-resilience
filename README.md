@@ -21,6 +21,7 @@ This series of guides helps communities prepare collectively, moving beyond indi
 <div align="center"><img src="/assets/IMG_9078.JPG" alt="" width=""/><img src="/assets/IMG_9074.JPG" alt="" width=""/></div>
 <div align="center"><sub>Community members mapping local assets during a preparedness workshop.</sub></div>
 <br>
+
 If you are interested in these resources for your community, please get in touch with Community Tech NY @ **info@communitytechny.org**
 <br><br>
 <div align="center"><img src="assets/CTLogocopy.png" alt="CTLab Logo" width="250"/></div>
