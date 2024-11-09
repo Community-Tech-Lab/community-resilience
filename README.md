@@ -1,12 +1,7 @@
 ## Don't Panic, Organize!
 Explore the role of community wireless networks, small businesses, and neighborhood anchor institutions in fostering resilient, sustainable neighborhoods. This workshop will examine how local networks can support communities during disasters and how key neighborhood players contribute to long-term sustainability and resilience.
 
-<img src="assets/IMG_1504.PNG" alt="" width="250"/><img src="assets/IMG_9080.PNG" alt="" width="250"/>
-
-
-
-
-<div align="center"><img src="https://github.com/Community-Tech-Lab/PNK/blob/main/assets/basicsolarload.png" alt="Basic off-grid solar system" width="" /></div>
+<img src="assets/IMG_1504.PNG" alt="" width="300"/><img src="assets/IMG_9080.PNG" alt="" width="300"/>
 <div align="center"><sub> Basic diagram of an off-grid solar system.</sub></div>
 <br>
 
