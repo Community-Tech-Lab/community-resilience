@@ -17,9 +17,9 @@ Explore the role of community wireless networks, small businesses, and neighborh
 
 ## Neighborhood Resilience Guidelines
 This series of guides helps communities prepare collectively, moving beyond individual preparedness to foster neighborhood-wide resilience. Learn how to organize inclusive gatherings that bring together diverse groups, using networks like block captains, PTAs, and faith-based organizations to ensure everyone is involved and informed.
-<div align="center"><img src="https://github.com/Community-Tech-Lab/PNK/blob/main/assets/basicsolarload.png" alt="Basic off-grid solar system" width="" /></div>
+
+<div align="center"><img src="/assets/IMG_9074.PNG" alt="" width=""/><img src="/assets/IMG_9078.PNG" alt="" width=""/></div>
 <div align="center"><sub> Basic diagram of an off-grid solar system.</sub></div>
-<br>
 <br>
 If you are interested in these resources for your community, please get in touch with Community Tech NY @ **info@communitytechny.org**
 <br><br>
