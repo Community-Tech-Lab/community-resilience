@@ -1,7 +1,10 @@
 ## Don't Panic, Organize!
 Explore the role of community wireless networks, small businesses, and neighborhood anchor institutions in fostering resilient, sustainable neighborhoods. This workshop will examine how local networks can support communities during disasters and how key neighborhood players contribute to long-term sustainability and resilience.
 
-<div align="center"><img src="/assets/IMG_1504.PNG" alt="" width=""/><img src="/assets/IMG_9074.PNG" alt="" width=""/></div>
+<div align="center">
+  <img src="/assets/IMG_1504.PNG" alt="" width=""/>
+  <img src="/assets/IMG_9074.PNG" alt="" width=""/>
+</div>
 <div align="center"><sub>Images of local servers conversations, from Don't Panic Organize workshops.</sub></div>
 <br>
 
