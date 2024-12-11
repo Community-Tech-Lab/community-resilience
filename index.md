@@ -14,21 +14,21 @@ feature_row:
     title: "Before an emergency"
     excerpt: "Resources to help communities prepare for emergencies."
     url: "/prepare/"
-    btn_label: "Explore"
+    btn_label: "Prepare"
     btn_class: "btn--primary"
   - image_path: /assets/IMG_9078.JPG
     alt: "During an emergency"
     title: "During an emergency"
     excerpt: "Hands-on sessions to build resilience."
     url: "/respond/"
-    btn_label: "Learn More"
+    btn_label: "Respond"
     btn_class: "btn--primary"
   - image_path: /assets/IMG_9080.PNG
     alt: "After an emergency"
     title: "After an emergency"
     excerpt: "Guides for setting up emergency communication networks."
     url: "/adapt/"
-    btn_label: "View Resources"
+    btn_label: "Regroup"
     btn_class: "btn--primary"
 ---
 {% include feature_row %}
