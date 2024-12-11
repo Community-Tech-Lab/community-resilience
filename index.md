@@ -13,21 +13,21 @@ header:
     - label: "Learn More"
       url: "/about/"
 feature_row:
-  - image_path: /assets/images/icon1.png
+  - image_path: /assets/images/IMG_1504.PNG
     alt: "Guidelines"
     title: "Guidelines"
     excerpt: "Resources to help communities prepare for emergencies."
     url: "/guidelines/"
     btn_label: "Explore"
     btn_class: "btn--primary"
-  - image_path: /assets/images/icon2.png
+  - image_path: /assets/images/IMG_1504.PNG
     alt: "Workshops"
     title: "Workshops"
     excerpt: "Hands-on sessions to build resilience."
     url: "/workshops/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/icon3.png
+  - image_path: /assets/images/IMG_1504.PNG
     alt: "PNK Kits"
     title: "Portable Network Kits"
     excerpt: "Guides for setting up emergency communication networks."
