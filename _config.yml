@@ -33,9 +33,8 @@ defaults:
 
 # Optional Settings for Minimal Mistakes
 theme_skin: "default"
-
 sass:
-  custom: "assets/css/custom.css"
+  custom: "assets/css/main.scss"
 
 # Navigation Links
 navigation:
