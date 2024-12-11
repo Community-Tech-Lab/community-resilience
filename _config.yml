@@ -37,3 +37,16 @@ theme_skin: "default"
 sass:
   custom: "assets/css/custom.css"
 
+# Navigation Links
+navigation:
+  - title: "About"
+    url: /
+  - title: "Resources"
+    url: /resources/
+    sublinks:
+      - title: "Guidelines"
+        url: /guidelines/
+  - title: "Workshops"
+    url: /workshops/
+  - title: "Contact"
+    url: /about/
