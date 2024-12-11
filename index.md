@@ -1,8 +1,42 @@
 ---
-layout: sample
-title: "Don't Panic, Organize!"
-excerpt: "Welcome to Resources for Community Resilience"
+layout: splash
+title: "Welcome to Resources for Community Resilience"
+excerpt: "Workshops & guidelines to help communities get prepared."
+permalink: /
+header:
+  overlay_color: "#000"
+  overlay_image: /assets/images/hero.jpg # Replace with your image path
+  caption: "Photo credit: Unsplash"
+  actions:
+    - label: "Get Started"
+      url: "/guidelines/"
+    - label: "Learn More"
+      url: "/about/"
+feature_row:
+  - image_path: /assets/images/icon1.png
+    alt: "Guidelines"
+    title: "Guidelines"
+    excerpt: "Resources to help communities prepare for emergencies."
+    url: "/guidelines/"
+    btn_label: "Explore"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/icon2.png
+    alt: "Workshops"
+    title: "Workshops"
+    excerpt: "Hands-on sessions to build resilience."
+    url: "/workshops/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/icon3.png
+    alt: "PNK Kits"
+    title: "Portable Network Kits"
+    excerpt: "Guides for setting up emergency communication networks."
+    url: "/pnk/"
+    btn_label: "View Resources"
+    btn_class: "btn--primary"
 ---
+
+
 ## Our Mission
 
 We provide workshops and guidelines to help communities organize, prepare, and strengthen their resilience.
