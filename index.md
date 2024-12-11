@@ -32,6 +32,8 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+{% include feature_row %}
+
 ## Building Stronger, Connected Communities
 
 In an increasingly unpredictable world, community resilience is essential for ensuring safety, connectivity, and preparedness during emergencies. This platform provides resources, strategies, and tools to empower communities to take control of their emergency communication needs. By combining innovative technologies, collaborative planning, and a commitment to inclusivity, we aim to support neighborhoods in building local capacity and fostering long-term resilience. Together, we can create robust systems that connect, protect, and adapt to the challenges ahead.
@@ -45,5 +47,3 @@ In an increasingly unpredictable world, community resilience is essential for en
 - **Post-Emergency Review**: Evaluate the effectiveness of emergency responses and refine the ECP using community feedback and lessons learned.
 - **Network Expansion**: Strengthen local infrastructure by extending the PNK network and offering new stewardship opportunities.
 - **Ongoing Preparedness**: Schedule regular drills and annual updates to ensure the ECP and PNKs remain effective and ready for future emergencies.
-
-{% include feature_row %}
