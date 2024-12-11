@@ -16,7 +16,7 @@ feature_row:
     url: "/prepare/"
     btn_label: "Prepare"
     btn_class: "btn--primary"
-  - image_path: /assets/IMG_9078.JPG
+  - image_path: /assets/IMG_9074.JPG
     alt: "During an emergency"
     title: "During an emergency"
     excerpt: "Hands-on sessions to build resilience."
