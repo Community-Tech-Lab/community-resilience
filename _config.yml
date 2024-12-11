@@ -18,6 +18,14 @@ defaults:
     values:
       layout: "single"
 
+# Defaults for Pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "sample"
+
 # Optional Settings for Minimal Mistakes
 theme_skin: "default"
 
