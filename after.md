@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Organize & Prepare"
+title: "Review & Iterate"
 permalink: /after/
 ---
 Content coming soon.
