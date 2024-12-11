@@ -12,23 +12,23 @@ feature_row:
   - image_path: /assets/IMG_9074.JPG
     alt: "Before an emergency"
     title: "Before an emergency"
-    excerpt: "Resources to help communities prepare for emergencies."
+    excerpt: "Lay the groundwork for effective emergency communication by building local capacity and training Digital Stewards as first responders. Develop a collaborative Emergency Communications Plan (ECP) through community workshops, ensuring it is accessible, inclusive, and adaptable to the community’s evolving needs. Establish scalable models to expand PNK networks and inspire similar efforts in other neighborhoods."
     url: "/prepare/"
-    btn_label: "Prepare"
+    btn_label: "Prepare Your Community"
     btn_class: "btn--primary"
   - image_path: /assets/IMG_1504.PNG
     alt: "During an emergency"
     title: "During an emergency"
-    excerpt: "Hands-on sessions to build resilience."
+    excerpt: "Activate emergency communication protocols by swiftly deploying PNKs to critical locations, prioritizing vulnerable populations. Ensure reliable connectivity and offline access to essential resources, while fostering community engagement through clear, multilingual communication. Empower stewards to coordinate efforts and maintain a responsive feedback loop with residents."
     url: "/respond/"
-    btn_label: "Respond"
+    btn_label: "Respond To An Event"
     btn_class: "btn--primary"
   - image_path: /assets/IMG_9080.PNG
     alt: "After an emergency"
     title: "After an emergency"
-    excerpt: "Guides for setting up emergency communication networks."
+    excerpt: "Evaluate the emergency response by conducting post-event reviews and analyzing PNK usage data to refine the ECP. Enhance the network by adding nodes and updating resources, while sustaining community involvement through stewardship opportunities and annual drills to ensure continued readiness and resilience."
     url: "/adapt/"
-    btn_label: "Regroup"
+    btn_label: "Review & Iterate"
     btn_class: "btn--primary"
 ---
 {% include feature_row %}
