@@ -34,4 +34,8 @@ defaults:
 # Optional Settings for Minimal Mistakes
 theme_skin: "default"
 
+theme:
+  sass:
+    custom: "assets/css/custom.css"
+
 
