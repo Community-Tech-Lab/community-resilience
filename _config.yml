@@ -34,19 +34,4 @@ defaults:
 # Optional Settings for Minimal Mistakes
 theme_skin: "default"
 
-# Navigation Links
-navigation:
-  - title: "Home"
-    url: /
- - title: "Resources"
-    url: /resources/
-    sublinks:
-      - title: "Guidelines"
-        url: /guidelines/
-      - title: "Workshops"
-        url: /workshops/
-  - title: "Workshops"
-    url: /workshops/
-  - title: "Contact"
-    url: /about/
 
