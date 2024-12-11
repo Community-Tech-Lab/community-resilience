@@ -28,7 +28,7 @@ feature_row:
     title: "After an emergency"
     excerpt: "Evaluate the emergency response by conducting post-event reviews and analyzing PNK usage data to refine the ECP. Enhance the network by adding nodes and updating resources, while sustaining community involvement through stewardship opportunities and annual drills to ensure continued readiness and resilience."
     url: "/after/"
-    btn_label: "Review & Iterate"
+    btn_label: "Review & Update Plan"
     btn_class: "btn--primary"
 ---
 {% include feature_row %}
