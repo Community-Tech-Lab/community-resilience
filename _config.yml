@@ -1,7 +1,23 @@
+# Remote Theme Configuration
 remote_theme: mmistakes/minimal-mistakes@4.26.2
-title: Resources for Community Resilience
-description: Workshops & guidelines to help communities get prepared
 
+# Site Metadata
+title: "Resources for Community Resilience"
+description: "Workshops & guidelines to help communities get prepared"
+
+# Plugins
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# Defaults for Posts
+defaults:
+  - scope:
+      path: "" # Applies to all files in the project
+      type: "posts"
+    values:
+      layout: "single"
+
+# Optional Settings for Minimal Mistakes
+theme_skin: "default"
+
