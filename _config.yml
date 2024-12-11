@@ -10,6 +10,27 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
+# Navigation Links
+navigation:
+  - title: "Home"
+    url: /
+ - title: "Resources"
+    url: /resources/
+    sublinks:
+      - title: "Guidelines"
+        url: /guidelines/
+      - title: "Workshops"
+        url: /workshops/
+  - title: "Workshops"
+    url: /workshops/
+  - title: "Contact"
+    url: /about/
+
+# Header and Footer Settings
+header:
+  nav:
+    - enabled: true
+
 # Defaults for Posts
 defaults:
   - scope:
