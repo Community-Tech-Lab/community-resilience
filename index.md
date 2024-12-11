@@ -9,14 +9,14 @@ header:
   caption: "Photo credit: CTNY"
   text_align: right
 feature_row:
-  - image_path: /assets/IMG_1504.PNG
+  - image_path: /assets/IMG_9074.JPG
     alt: "Before an emergency"
     title: "Before an emergency"
     excerpt: "Resources to help communities prepare for emergencies."
     url: "/prepare/"
     btn_label: "Prepare"
     btn_class: "btn--primary"
-  - image_path: /assets/IMG_9074.JPG
+  - image_path: /assets/IMG_1504.PNG
     alt: "During an emergency"
     title: "During an emergency"
     excerpt: "Hands-on sessions to build resilience."
