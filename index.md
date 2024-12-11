@@ -5,7 +5,7 @@ excerpt: "Workshops & guidelines to help communities get prepared."
 permalink: /
 header:
   overlay_color: "#000"
-  overlay_image: /assets/IMG_9074.JPG # Replace with your image path
+  overlay_image: /assets/IMG_9078.JPG # Replace with your image path
   caption: "Photo credit: CTNY"
 feature_row:
   - image_path: /assets/IMG_1504.PNG
