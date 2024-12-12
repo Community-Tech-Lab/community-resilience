@@ -43,6 +43,8 @@ defaults:
 theme_skin: "default"
 sass:
   custom: "assets/css/main.scss"
+  custom: "assets/css/custom.css"
+
 
 # Site Author
 # author:
