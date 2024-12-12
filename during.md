@@ -3,9 +3,11 @@ layout: single
 title: "Deploy & Respond"
 permalink: /during/
 ---
+
+## Description
 Content coming soon.
 
-# Objectives: 
+## Activities & Workshop Outcomes
 
 - **Activate Emergency Communication Protocols**
   - Ensure swift deployment of PNKs to pre-identified community hubs and critical sites, prioritizing vulnerable populations.
@@ -19,3 +21,6 @@ Content coming soon.
   - Use the PNK network to provide clear, multilingual communication to residents, emphasizing safety protocols and resource availability.
   - Ensure a responsive feedback loop during the emergency, allowing residents to share needs and updates via the PNK network.
 
+## Resources
+
+## Role Practice
