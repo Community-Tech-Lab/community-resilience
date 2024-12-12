@@ -19,7 +19,7 @@ header:
   logo:
     - path: /assets/CTLogo.png
       alt: "Logo"
-      width: 100px
+      width: 150px
   include_logo: true
 
 # Defaults for Posts
