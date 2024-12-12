@@ -3,9 +3,11 @@ layout: single
 title: "Organize & Prepare"
 permalink: /before/
 ---
+
+## Description
 Content coming soon.
 
-# Objectives: 
+## Activities & Workshop Outcomes
 
 - **Build Local Capacity**
    - Identify and train local stakeholders as Digital Stewards to serve as Emergency Communication first responders.
@@ -22,4 +24,8 @@ Content coming soon.
 - **Scalable and Replicable Models**
   - Use the ECP as a template for other neighborhoods or organizations to develop their own emergency communication plans.
   - Extend the local PNK network infrastructure to cover more key locations and offer additional stewardship opportunities.
+
+## Resources
+
+## Role Practice
 
