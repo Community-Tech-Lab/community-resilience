@@ -15,7 +15,7 @@ feature_row:
     url: "/before/"
     btn_label: "Prepare Your Community"
     btn_class: "btn--primary"
-  - image_path: /assets/IMG_9074.JPG
+  - image_path: /assets/PNKNoLa.jpg
     alt: "During an emergency"
     title: "During an emergency"
     excerpt: "Activate emergency communication protocols by swiftly deploying PNKs to critical locations, prioritizing vulnerable populations. Ensure reliable connectivity and offline access to essential resources, while fostering community engagement through clear, multilingual communication. Empower stewards to coordinate efforts and maintain a responsive feedback loop with residents."
