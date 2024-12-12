@@ -4,6 +4,7 @@ remote_theme: mmistakes/minimal-mistakes@4.26.2
 # Site Metadata
 title: "Don't Panic, Organize!"
 description: "Resources for Community Resilience"
+subtitle: "Resources for Community Resilience" # site tagline that appears below site title in masthead
 
 # Plugins
 plugins:
