@@ -11,9 +11,9 @@ plugins:
   - jekyll-include-cache
 
 # Header and Footer Settings
-# header:
-#  nav:
-#    - enabled: true
+header:
+  nav:
+    - enabled: true
 
 # Defaults for Posts
 defaults:
