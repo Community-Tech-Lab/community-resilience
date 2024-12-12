@@ -4,6 +4,13 @@ title: "Contact"
 permalink: /contact/
 ---
 
+## Description
+tbd
+
+## Map
+
+## Get In Touch!
+
 <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
   <label for="name">Name:</label>
   <input type="text" id="name" name="name" placeholder="Your name" required>
