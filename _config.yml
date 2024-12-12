@@ -36,20 +36,6 @@ theme_skin: "default"
 sass:
   custom: "assets/css/main.scss"
 
-# Navigation Links
-navigation:
-  - title: "About"
-    url: /
-  - title: "Resources"
-    url: /resources/
-    sublinks:
-      - title: "Guidelines"
-        url: /guidelines/
-  - title: "Workshops"
-    url: /workshops/
-  - title: "Contact"
-    url: /about/
-
 # Site Author
 author:
   name             : "Community Tech NY"
