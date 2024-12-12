@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Don't Panic, Organize!"
+title: "Welcome to Resources for Community Resilience"
 excerpt: "Workshops & guidelines to help communities get prepared."
 text_align: right
 permalink: /
