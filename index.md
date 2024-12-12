@@ -15,14 +15,14 @@ feature_row:
     url: "/before/"
     btn_label: "Prepare Your Community"
     btn_class: "btn--primary"
-  - image_path: /assets/PNKNoLa.jpg
+  - image_path: /assets/after.jpg
     alt: "During an emergency"
     title: "During an emergency"
     excerpt: "Activate emergency communication protocols by swiftly deploying PNKs to critical locations, prioritizing vulnerable populations. Ensure reliable connectivity and offline access to essential resources, while fostering community engagement through clear, multilingual communication. Empower stewards to coordinate efforts and maintain a responsive feedback loop with residents."
     url: "/during/"
     btn_label: "Respond To An Event"
     btn_class: "btn--primary"
-  - image_path: /assets/after.jpg
+  - image_path: /assets/PNKNoLa.jpg
     alt: "After an emergency"
     title: "After an emergency"
     excerpt: "Evaluate the emergency response by conducting post-event reviews and analyzing PNK usage data to refine the ECP. Enhance the network by adding nodes and updating resources, while sustaining community involvement through stewardship opportunities and annual drills to ensure continued readiness and resilience."
