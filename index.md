@@ -8,7 +8,7 @@ header:
   caption: "Photo credit: CTNY"
   text_align: right
 feature_row:
-  - image_path: /assets/IMG_9074.JPG
+  - image_path: /assets/before.png
     alt: "Before an emergency"
     title: "Before an emergency"
     excerpt: "Lay the groundwork for effective emergency communication by building local capacity and training Digital Stewards as first responders. Develop a collaborative Emergency Communications Plan (ECP) through community workshops, ensuring it is accessible, inclusive, and adaptable to the community’s evolving needs."
