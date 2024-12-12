@@ -4,8 +4,7 @@ title: "Contact"
 permalink: /contact/
 ---
 
-## Description
-tbd
+Coming soon. 
 
 ## Map
 <iframe
