@@ -5,6 +5,7 @@ remote_theme: mmistakes/minimal-mistakes@4.26.2
 title: "Don't Panic, Organize!"
 description: "Resources for Community Resilience"
 subtitle: "Workshops & resources to help communities get prepared." # site tagline that appears below site title in masthead
+logo: /assets/CTlogo.png
 
 # Plugins
 plugins:
