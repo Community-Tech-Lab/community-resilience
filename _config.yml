@@ -49,3 +49,25 @@ navigation:
     url: /workshops/
   - title: "Contact"
     url: /about/
+
+# Site Author
+author:
+  name             : "Community Tech NY"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+#  bio              : "I am an **amazing** person."
+#  location         : "Somewhere"
+  email            : "info@communitytechny.org"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:info@communitytechny.org"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://www.communitytechny.org/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/Community-Tech-Lab"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://www.instagram.com/commtechny/"
+
