@@ -3,9 +3,10 @@ layout: single
 title: "Review & Iterate"
 permalink: /after/
 ---
+## Description 
 Content coming soon.
 
-# Objectives: 
+## Activity Goals & Workshop Outcomes: 
 
 - **Conduct Post-Emergency Review**
   - Organize debrief sessions with stewards and community members to evaluate the effectiveness of the PNK deployment and communication plan.
@@ -23,4 +24,6 @@ Content coming soon.
   - Schedule yearly drills to rehearse emergency communication protocols and ensure equipment functionality.
   - Revisit and update the ECP annually, incorporating new technologies, community changes, and expanded network capacities.
 
+## Resources
 
+## Role Practice
