@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_image: /assets/IMG_9078.JPG # Replace with your image path
   caption: "Photo credit: CTNY"
-  text_align: right
+
 feature_row:
   - image_path: /assets/dpo.jpg
     alt: "Before an emergency"
