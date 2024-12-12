@@ -17,7 +17,7 @@ header:
   nav:
     - enabled: true
   logo:
-    - path: /assets/CTlogo.png
+    - path: /assets/CTLogo.png
       alt: "Logo"
       width: 100px
   include_logo: true
