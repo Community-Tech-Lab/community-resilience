@@ -14,6 +14,11 @@ plugins:
 header:
   nav:
     - enabled: true
+  logo:
+    - path: /assets/images/CTlogo.png
+      alt: "Logo"
+      width: 100px
+  include_logo: true
 
 # Defaults for Posts
 defaults:
