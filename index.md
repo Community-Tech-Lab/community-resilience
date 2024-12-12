@@ -2,6 +2,7 @@
 layout: splash
 title: "Don't Panic, Organize!"
 excerpt: "Workshops & guidelines to help communities get prepared."
+text_align: right
 permalink: /
 header:
   overlay_color: "#000"
