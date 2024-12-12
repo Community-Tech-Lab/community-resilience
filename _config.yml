@@ -30,6 +30,7 @@ defaults:
       type: "pages"
     values:
       layout: "sample"
+      author_profile: true
 
 # Optional Settings for Minimal Mistakes
 theme_skin: "default"
