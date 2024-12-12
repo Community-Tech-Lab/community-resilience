@@ -40,10 +40,10 @@ In an increasingly unpredictable world, community resilience is essential for en
 
 Some of the goals and outcomes our modules cover: 
 
-**Capacity Building**: Train and support community stewards to manage and deploy Portable Network Kits (PNKs) for emergency communication efforts.
-**Collaborative Planning**: Co-develop and maintain an Emergency Communications Plan (ECP) that reflects local needs, assets, and vulnerabilities.
-**Accessible Communication**: Ensure the ECP and essential resources are available offline through PNKs in multilingual and inclusive formats.
-**Emergency Deployment**: Deploy PNKs during crises to provide reliable connectivity, disseminate critical information, and support vulnerable populations.
-**Post-Emergency Review**: Evaluate the effectiveness of emergency responses and refine the ECP using community feedback and lessons learned.
-**Network Expansion**: Strengthen local infrastructure by extending the PNK network and offering new stewardship opportunities.
-**Ongoing Preparedness**: Schedule regular drills and annual updates to ensure the ECP and PNKs remain effective and ready for future emergencies.
+- **Capacity Building**: Train and support community stewards to manage and deploy Portable Network Kits (PNKs) for emergency communication efforts.
+- **Collaborative Planning**: Co-develop and maintain an Emergency Communications Plan (ECP) that reflects local needs, assets, and vulnerabilities.
+- **Accessible Communication**: Ensure the ECP and essential resources are available offline through PNKs in multilingual and inclusive formats.
+- **Emergency Deployment**: Deploy PNKs during crises to provide reliable connectivity, disseminate critical information, and support vulnerable populations.
+- **Post-Emergency Review**: Evaluate the effectiveness of emergency responses and refine the ECP using community feedback and lessons learned.
+- **Network Expansion**: Strengthen local infrastructure by extending the PNK network and offering new stewardship opportunities.
+- **Ongoing Preparedness**: Schedule regular drills and annual updates to ensure the ECP and PNKs remain effective and ready for future emergencies.
