@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Don't Panic, Organize!"
-text_align: right
+  text_align: right
 permalink: /
 header:
   overlay_color: "#000"
