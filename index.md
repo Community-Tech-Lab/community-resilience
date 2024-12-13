@@ -37,7 +37,7 @@ In an increasingly unpredictable world, community resilience is essential for en
 
 {% include feature_row %}
 
-Join us in exploring these impactful goals and outcomes through our modules:
+**_Join us in exploring these impactful goals and outcomes through our modules:_**
 
 1. **Capacity Building**: Train and support community stewards to manage and deploy Portable Network Kits (PNKs) for emergency communication efforts.
 2. **Collaborative Planning**: Co-develop and maintain an Emergency Communications Plan (ECP) that reflects local needs, assets, and vulnerabilities.
