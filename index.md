@@ -37,12 +37,12 @@ In an increasingly unpredictable world, community resilience is essential for en
 
 {% include feature_row %}
 
-Some of the goals and outcomes our modules cover: 
+Join us in exploring these impactful goals and outcomes through our modules:
 
-- **Capacity Building**: Train and support community stewards to manage and deploy Portable Network Kits (PNKs) for emergency communication efforts.
-- **Collaborative Planning**: Co-develop and maintain an Emergency Communications Plan (ECP) that reflects local needs, assets, and vulnerabilities.
-- **Accessible Communication**: Ensure the ECP and essential resources are available offline through PNKs in multilingual and inclusive formats.
-- **Emergency Deployment**: Deploy PNKs during crises to provide reliable connectivity, disseminate critical information, and support vulnerable populations.
-- **Post-Emergency Review**: Evaluate the effectiveness of emergency responses and refine the ECP using community feedback and lessons learned.
-- **Network Expansion**: Strengthen local infrastructure by extending the PNK network and offering new stewardship opportunities.
-- **Ongoing Preparedness**: Schedule regular drills and annual updates to ensure the ECP and PNKs remain effective and ready for future emergencies.
+1. **Capacity Building**: Train and support community stewards to manage and deploy Portable Network Kits (PNKs) for emergency communication efforts.
+2. **Collaborative Planning**: Co-develop and maintain an Emergency Communications Plan (ECP) that reflects local needs, assets, and vulnerabilities.
+3. **Accessible Communication**: Ensure the ECP and essential resources are available offline through PNKs in multilingual and inclusive formats.
+4. **Emergency Deployment**: Deploy PNKs during crises to provide reliable connectivity, disseminate critical information, and support vulnerable populations.
+5. **Post-Emergency Review**: Evaluate the effectiveness of emergency responses and refine the ECP using community feedback and lessons learned.
+6. **Network Expansion**: Strengthen local infrastructure by extending the PNK network and offering new stewardship opportunities.
+7. **Ongoing Preparedness**: Schedule regular drills and annual updates to ensure the ECP and PNKs remain effective and ready for future emergencies.
