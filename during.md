@@ -5,6 +5,7 @@ permalink: /during/
 header:
   image: /assets/deploy.jpg
   caption: "Photo credit: [**CTNY**](https://communitytechny.org)"
+  show_overlay_excerpt: "Deploy & Respond"
 ---
 
 ## Description
