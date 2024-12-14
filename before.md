@@ -2,6 +2,9 @@
 layout: single
 title: "Organize & Prepare"
 permalink: /before/
+header:
+  image: /assets/beforepnk.jpg
+  caption: "Photo credit: [**CTNY**](https://communitytechny.org)"
 ---
 
 ## Description
