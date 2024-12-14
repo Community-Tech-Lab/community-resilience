@@ -3,8 +3,7 @@ layout: splash
 title: "Don't Panic, Organize!"
 permalink: /
 header:
-  overlay_color: "#000"
-  overlay_image: /assets/IMG_9078.JPG # Replace with your image path
+  image: /assets/frontpage.jpg # Replace with your image path
   caption: "Photo credit: [**CTNY**](https://communitytechny.org)"
 
 feature_row:
