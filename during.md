@@ -2,6 +2,9 @@
 layout: single
 title: "Deploy & Respond"
 permalink: /during/
+header:
+  image: /assets/deploy.jpg
+  caption: "Photo credit: [**CTNY**](https://communitytechny.org)"
 ---
 
 ## Description
