@@ -3,7 +3,7 @@ layout: single
 title: "Deploy & Respond"
 permalink: /during/
 header:
-  image: /assets/deploy.jpg
+  image: /assets/deploypnk.jpg
   caption: "Photo credit: [**CTNY**](https://communitytechny.org)"
   show_overlay_excerpt: "Deploy & Respond"
 ---
