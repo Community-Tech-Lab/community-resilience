@@ -1,13 +1,13 @@
 ---
 layout: single
-title: "Review & Iterate"
+title: "Review & Improve Plan"
 permalink: /after/
 header:
   image: /assets/afterpnk.jpg
   caption: "Photo credit: [**CTNY**](https://communitytechny.org)"
 ---
 
-## Activities & Goals: 
+## Activities & Outcomes
 
 #### Conduct Post-Emergency Review
   - [ ] Organize debrief sessions with stewards and community members to evaluate the effectiveness of the PNK deployment and communication plan.
