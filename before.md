@@ -28,7 +28,3 @@ Content coming soon.
 - [ ] Use the ECP as a template for other neighborhoods or organizations to develop their own emergency communication plans.
 - [ ] Extend the local PNK network infrastructure to cover more key locations and offer additional stewardship opportunities.
 
-## Resources
-
-## Role Practice
-
