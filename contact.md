@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 ---
 
-Coming soon. 
+Interested in bringing these resilience-building activities to your community? Get in touch to learn more about training opportunities and resources!
 
 ## Map
 This map shows the locations where Portable Network Kits (PNKs) have been deployed, as part of a growing network of community-driven resilience initiatives. Each pin represents a site where PNKs are actively used to enhance emergency communication, foster local connectivity, and empower communities to adapt to challenges. 
