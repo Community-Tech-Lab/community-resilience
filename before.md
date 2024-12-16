@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Organize & Prepare"
+title: "Prepare Your Community"
 permalink: /before/
 header:
   image: /assets/beforepnk.jpg
