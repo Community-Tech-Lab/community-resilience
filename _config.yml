@@ -35,8 +35,7 @@ footer:
     - label: "Email"
       url: mailto:info@communitytechny.org
       icon: "fas fa-envelope"
-      
-  content: "© 2024 Community Tech NY. Built with <a href='https://mmistakes.github.io/minimal-mistakes/' target='_blank'>Minimal Mistakes</a>."
+    content: "© 2024 Community Tech NY. Built with <a href='https://mmistakes.github.io/minimal-mistakes/' target='_blank'>Minimal Mistakes</a>."
 
 # Defaults for Posts
 defaults:
