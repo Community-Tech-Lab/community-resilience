@@ -21,6 +21,22 @@ header:
       alt: "Logo"
       width: 150px
   include_logo: true
+footer:
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.communitytechny.org/"  
+    - label: "GitHub"
+      url: "https://github.com/Community-Tech-Lab"
+      icon: "fab fa-github"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/commtechny/"
+    - label: "Email"
+      url: mailto:info@communitytechny.org
+      icon: "fas fa-envelope"
+      
+  content: "© 2024 Community Tech NY. Built with <a href='https://mmistakes.github.io/minimal-mistakes/' target='_blank'>Minimal Mistakes</a>."
 
 # Defaults for Posts
 defaults:
@@ -43,25 +59,6 @@ theme_skin: "default"
 sass:
   custom: "assets/css/main.scss"
   custom: "assets/css/custom.css"
-
-footer:
-  content: "© 2024 Community Tech NY. Built with <a href='https://mmistakes.github.io/minimal-mistakes/' target='_blank'>Minimal Mistakes</a>."
-  links:
-    - title: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.communitytechny.org/"  
-    - title: "GitHub"
-      url: "https://github.com/Community-Tech-Lab"
-      icon: "fab fa-github"
-#    - title: "Twitter"
-#      url: https://twitter.com/your-username
-#      icon: "fab fa-twitter"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/commtechny/"
-    - title: "Email"
-      url: mailto:info@communitytechny.org
-      icon: "fas fa-envelope"
       
 # Site Author
 # author:
