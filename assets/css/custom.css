@@ -2,3 +2,7 @@
 .splash .page-header-content {
   margin-right: 30px; /* Optional: Adds some space between the text and the edge */
 }
+
+.footer-links .fa-rss {
+    display: none;
+}
