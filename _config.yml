@@ -6,6 +6,7 @@ title: "Don't Panic, Organize!"
 description: "Resources for Community Resilience"
 subtitle: "Resources for Community Resilience" # site tagline that appears below site title in masthead
 logo: /assets/CTLogo.png
+feed: false
 
 # Plugins
 plugins:
@@ -24,7 +25,6 @@ header:
 
 # Footer social links 
 footer:
-  feed: false
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
