@@ -7,7 +7,9 @@ header:
   caption: "Photo credit: [**CTNY**](https://communitytechny.org)"
 ---
 
-## Activities & Workshop Outcomes
+Prepare for emergencies by building local capacity, empowering stakeholders with training, collaboratively developing inclusive Emergency Communications Plans (ECPs), and creating scalable, community-driven models for resilience.
+
+## Activities & Outcomes
 
 #### Build Local Capacity
 - [ ] Identify and train local stakeholders as Digital Stewards to serve as Emergency Communication first responders.
