@@ -7,9 +7,6 @@ header:
   caption: "Photo credit: [**CTNY**](https://communitytechny.org)"
 ---
 
-## Description
-Content coming soon.
-
 ## Activities & Workshop Outcomes
 
 #### Build Local Capacity
@@ -24,7 +21,7 @@ Content coming soon.
 - [ ] Host the ECP on local mesh network servers and ensure it is accessible through PNKs in offline modes.
 - [ ] Promote the ECP across community platforms, ensuring it is available in multiple languages and formats for inclusivity.
   
-#### Scalable and Replicable Models**
+#### Scalable and Replicable Models
 - [ ] Use the ECP as a template for other neighborhoods or organizations to develop their own emergency communication plans.
 - [ ] Extend the local PNK network infrastructure to cover more key locations and offer additional stewardship opportunities.
 
