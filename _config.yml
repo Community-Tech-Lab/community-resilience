@@ -25,7 +25,7 @@ header:
 
 # Footer social links 
 footer:
-  content: "© 2024 Community Tech NY. Built with <a href='https://mmistakes.github.io/minimal-mistakes/' target='_blank'>Minimal Mistakes</a>.
+# content: "© 2024 Community Tech NY. Built with <a href='https://mmistakes.github.io/minimal-mistakes/' target='_blank'>Minimal Mistakes</a>.
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
