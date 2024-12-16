@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Deploy & Respond"
+title: "Respond To An Event"
 permalink: /during/
 header:
   image: /assets/deploypnk.jpg
