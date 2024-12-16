@@ -6,6 +6,7 @@ header:
   image: /assets/afterpnk.jpg
   caption: "Photo credit: [**CTNY**](https://communitytechny.org)"
 ---
+After an emergency, conduct a thorough review to refine the Emergency Communication Plan (ECP), update resources, expand the PNK network, and sustain preparedness through community engagement and annual readiness drills.
 
 ## Activities & Outcomes
 
