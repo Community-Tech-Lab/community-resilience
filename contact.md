@@ -9,7 +9,7 @@ Interested in bringing these resilience-building activities to your community? G
 ## Get In Touch!
 We'd love to hear from you!
 
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+<form action="mailto:info@communitytechny.org" method="POST" enctype="text/plain">
   <label for="name">Name:</label>
   <input type="text" id="name" name="name" placeholder="Your name" required>
 
