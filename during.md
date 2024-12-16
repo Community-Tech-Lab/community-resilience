@@ -6,8 +6,9 @@ header:
   image: /assets/deploypnk.jpg
   caption: "Photo credit: [**CTNY**](https://communitytechny.org)"
 ---
+During an emergency, swiftly deploy Portable Network Kits (PNKs) to critical hubs, maintain reliable connectivity for real-time updates and access to essential resources, and engage the community through clear and responsive communications.
 
-## Activities & Workshop Outcomes
+## Activities & Outcomes
 
 #### Activate Emergency Communication Protocols
   - [ ] Ensure swift deployment of PNKs to pre-identified community hubs and critical sites, prioritizing vulnerable populations.
