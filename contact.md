@@ -9,20 +9,16 @@ Interested in bringing these resilience-building activities to your community? G
 ## Get In Touch!
 We'd love to hear from you!
 
-<!-- modify this form HTML and place wherever you want your form -->
-<form
-  action="https://formspree.io/f/manygzkl"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
+<form action="https://formspree.io/f/manygzkl" method="POST">
+  <label for="name">Name:</label>
+  <input type="text" id="name" name="name" placeholder="Your name" required>
+
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email" placeholder="Your email" required>
+
+  <label for="message">Message:</label>
+  <textarea id="message" name="message" rows="5" placeholder="Your message" required></textarea>
+
   <button type="submit">Send</button>
 </form>
 
