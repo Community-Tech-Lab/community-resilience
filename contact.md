@@ -25,13 +25,6 @@ We'd love to hear from you!
 ## Map
 This map shows the locations where Portable Network Kits (PNKs) have been deployed, as part of a growing network of community-driven resilience initiatives. Each pin represents a site where PNKs are actively used to enhance emergency communication, foster local connectivity, and empower communities to adapt to challenges. 
 
-<iframe
-  src="https://www.google.com/maps/d/u/0/edit?mid=10PfI-3usCU5HDq6fQuYwBAEcxcM-aoo&ll=29.50329868155902%2C-105.84363225000001&z=4"
-  width="600"
-  height="450"
-  style="border:0;"
-  allowfullscreen=""
-  loading="lazy">
-</iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=10PfI-3usCU5HDq6fQuYwBAEcxcM-aoo&ehbc=2E312F" width="640" height="480"></iframe>
 
 
