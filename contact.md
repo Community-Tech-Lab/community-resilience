@@ -27,7 +27,7 @@ This map shows the locations where Portable Network Kits (PNKs) have been deploy
 
 <div class="parent-container">
 <div class="map-container">
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=10PfI-3usCU5HDq6fQuYwBAEcxcM-aoo&ehbc=2E312F" allowfullscreen="">
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=10PfI-3usCU5HDq6fQuYwBAEcxcM-aoo&ehbc=2E312F" allowfullscreen="" loading="lazy">
 </iframe>
 </div>
 </div>
