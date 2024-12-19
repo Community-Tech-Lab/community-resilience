@@ -32,7 +32,7 @@ feature_row:
 ---
 ### Building Stronger, Connected Communities
 
-In an increasingly unpredictable world, community resilience is essential for ensuring safety, connectivity, and preparedness during emergencies. This platform provides resources, strategies, and tools to empower communities to take control of their emergency communication needs. By combining innovative technologies, collaborative planning, and a commitment to inclusivity, we aim to support neighborhoods in building local capacity and fostering long-term resilience. Together, we can create robust systems that connect, protect, and adapt to the challenges ahead. 
+In an increasingly unpredictable world, **collective community resilience** is essential for ensuring group safety, connectivity, and preparedness during emergencies. This platform provides resources, strategies, and tools **to empower groups and communities** to collaboratively take control of their emergency communication needs. By combining innovative technologies, participatory planning, and a commitment to inclusivity, we aim to support neighborhoods in building shared capacity and fostering long-term resilience. Together, we can create robust systems that connect, protect, and adapt to the challenges ahead.
 
 {% include feature_row %}
 
