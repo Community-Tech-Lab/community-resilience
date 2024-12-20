@@ -3,7 +3,7 @@ layout: single
 title: "Review & Improve Plan"
 permalink: /after/
 header:
-  image: /assets/afterpnk.jpg
+  image: /assets/antenna2long.jpg
   caption: "Photo credit: [**CTNY**](https://communitytechny.org)"
 ---
 After an emergency, conduct a thorough review to refine the Emergency Communication Plan (ECP), update resources, expand the PNK network, and sustain preparedness through community engagement and annual readiness drills.
