@@ -22,7 +22,7 @@ feature_row:
     url: "/during/"
     btn_label: "Respond To An Event"
     btn_class: "btn--primary"
-  - image_path: /assets/antenna.jpg
+  - image_path: /assets/PNKNoLa.jpg
     alt: "After an emergency"
     title: "After an emergency"
     excerpt: "Evaluate the emergency response by conducting post-event reviews and analyzing PNK usage data to refine the ECP. Enhance the network by adding nodes and updating resources, while sustaining community involvement through stewardship opportunities and annual drills to ensure continued readiness and resilience."
