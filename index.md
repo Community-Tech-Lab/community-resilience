@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: [**CTNY**](https://communitytechny.org)"
 
 feature_row:
-  - image_path: /assets/dpo.jpg
+  - image_path: /assets/group.jpg
     caption: "Photo credit: [**CTNY**](https://communitytechny.org)"
     alt: "Before an emergency"
     title: "Before an emergency"
